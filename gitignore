@@ -1,0 +1,5 @@
+project-files/
+*.qcow2
+*.img
+*.bin
+*.vmdk
